@@ -1,2 +1,0 @@
-BOT_TOKEN = ""
-GROUP_ID = ""
